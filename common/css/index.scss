@@ -1,0 +1,8 @@
+.container {
+	font-size: 14px;
+	line-height: 24px;
+	.status_bar {
+		height: var(--status-bar-height);
+		width: 100%;
+	 }
+}

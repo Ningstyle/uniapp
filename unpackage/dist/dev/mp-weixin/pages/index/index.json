@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "titleNView": false,
+  "usingComponents": {
+    "au-search": "/common/components/searchCom"
+  }
+}

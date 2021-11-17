@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "titleNView": false,
+  "usingComponents": {
+    "au-search": "/common/components/searchCom"
+  }
+}

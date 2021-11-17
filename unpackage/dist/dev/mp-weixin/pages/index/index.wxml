@@ -1,0 +1,1 @@
+<view class="container data-v-45557fd4"><view class="status_bar data-v-45557fd4"></view><au-search vue-id="8dd740cc-1" autoFocus="{{false}}" isbackshow="{{false}}" isdisabled="{{true}}" data-event-opts="{{[['^inputChange',[['inputChange']]],['^inputClick',[['inputClick']]]]}}" bind:inputChange="__e" bind:inputClick="__e" class="data-v-45557fd4" bind:__l="__l"></au-search></view>
