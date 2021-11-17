@@ -1,4 +1,4 @@
-# uniapp项目底层基础框架，导入HbuilderX即可使用
+## uniapp项目底层基础框架，导入HbuilderX即可使用
 #### 目录说明：
   ┌─node_modules                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm组件目录  
   ├─common                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目公用组件及方法存放  
